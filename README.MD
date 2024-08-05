@@ -6,3 +6,4 @@ Read the original blog post here: https://www.hassandev.me/blog/post/using-imgur
 - Hassan Aziz
 - Web Developer and Designer
 - Website: https://www.hassandev.me
+- Check out my other ![web projects](https://www.hassandev.me/projects)
